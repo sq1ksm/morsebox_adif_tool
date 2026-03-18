@@ -4,16 +4,16 @@
 
 ## Funkcje
 
-- 📡 **Pobieranie z serwera** – wpisz adres serwera (np. `http://192.168.1.12`), pobierz listę dostępnych plików i wybierz ten, który chcesz załadować – ładuje się automatycznie.
-- 📂 **Wczytywanie lokalnego pliku** – wybierz plik logu z dysku; jego treść zostanie sparsowana i wyświetlona.
-- ✏️ **Edycja w tabeli** – kliknij dwukrotnie w komórkę, by edytować jej wartość. Pola daty i czasu są automatycznie formatowane, raporty RST są normalizowane (`5NN` → `599`), a niepoprawne godziny są czyszczone.
-- ✅ **Zaznaczanie wierszy** – kliknij symbol `☐` w ostatniej kolumnie, by zaznaczyć wiersze do usunięcia. Zaznaczone wiersze zmieniają kolor na czerwony.
-- ➕ **Dodawanie pustego wiersza** – wstawia nowy, pusty wiersz na dole tabeli.
-- 🗑️ **Usuwanie zaznaczonych** – usuwa wszystkie wiersze oznaczone symbolem ☑.
-- 📻 **Wypełnianie pasma** – ustaw jedno pasmo dla wszystkich QSO za jednym razem.
-- 📤 **Eksport ADIF** – zapisuje zawartość tabeli jako standardowy plik `.adi`, gotowy do zaimportowania do dowolnego programu logującego.
-- ❓ **Wbudowana pomoc** – szybkie podsumowanie funkcji wewnątrz aplikacji.
-- 🖥️ **Wieloplatformowość** – działa na Windows, macOS i Linux (wymaga Pythona).
+-  **Pobieranie z serwera** – wpisz adres serwera (np. `http://192.168.1.12`), pobierz listę dostępnych plików i wybierz ten, który chcesz załadować – ładuje się automatycznie.
+-  **Wczytywanie lokalnego pliku** – wybierz plik logu z dysku; jego treść zostanie sparsowana i wyświetlona.
+-  **Edycja w tabeli** – kliknij dwukrotnie w komórkę, by edytować jej wartość. Pola daty i czasu są automatycznie formatowane, raporty RST są normalizowane (`5NN` → `599`), a niepoprawne godziny są czyszczone.
+-  **Zaznaczanie wierszy** – kliknij symbol `☐` w ostatniej kolumnie, by zaznaczyć wiersze do usunięcia. Zaznaczone wiersze zmieniają kolor na czerwony.
+-  **Dodawanie pustego wiersza** – wstawia nowy, pusty wiersz na dole tabeli.
+-  **Usuwanie zaznaczonych** – usuwa wszystkie wiersze oznaczone symbolem ☑.
+-  **Wypełnianie pasma** – ustaw jedno pasmo dla wszystkich QSO za jednym razem.
+-  **Eksport ADIF** – zapisuje zawartość tabeli jako standardowy plik `.adi`, gotowy do zaimportowania do dowolnego programu logującego.
+-  **Wbudowana pomoc** – szybkie podsumowanie funkcji wewnątrz aplikacji.
+-  **Wieloplatformowość** – działa na Windows, macOS i Linux (wymaga Pythona).
 
 ## Wymagania
 

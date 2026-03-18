@@ -13,7 +13,7 @@
 -  **Domyślnee pasmo** – ustaw jedno pasmo dla wszystkich QSO za jednym razem.
 -  **Eksport ADIF** – zapisuje zawartość tabeli jako standardowy plik `.adi`, gotowy do zaimportowania do dowolnego programu logującego.
 -  **Wbudowana pomoc** – szybkie podsumowanie funkcji wewnątrz aplikacji.
--  **Wieloplatformowość** – działa na Windows, macOS i Linux (wymaga Pythona).
+-  **Wieloplatformowość** – działa na Windows, macOS i Linux (wymaga Pythona podczas kompilacji).
 
 ## Wymagania
 

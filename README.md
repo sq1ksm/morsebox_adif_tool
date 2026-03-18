@@ -32,11 +32,11 @@ Aby zbudować wersję:
 
 ## Windows
 ```bash
-pyinstaller --onefile --windowed --name cw_generator.exe cw_gui.py
+pyinstaller --onefile --windowed --name MorseBOX_ADIF_Tool.py
 ```
 
 ## macOS
 ```bash
-pyinstaller --onefile --windowed --name cw_generator cw_gui.py
+pyinstaller --onefile --windowed --name MorseBOX_ADIF_Tool.py
 ```
 

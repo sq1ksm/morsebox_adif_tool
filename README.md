@@ -24,6 +24,7 @@ Zainstaluj zależność:
 
 ```bash
 pip install requests
+```
 
 ## Build
 

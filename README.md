@@ -15,7 +15,7 @@
 -  **Wbudowana pomoc** – szybkie podsumowanie funkcji wewnątrz aplikacji.
 -  **Wieloplatformowość** – działa na Windows, macOS i Linux (wymaga Pythona podczas kompilacji).
 
-## Wymagania
+## Wymagania przy kompilacji
 
 - **Python 3.6+**
 - Dodatkowy pakiet Pythona: `requests`

@@ -24,3 +24,18 @@ Zainstaluj zależność:
 
 ```bash
 pip install requests
+
+## Build
+
+Aby zbudować wersję:
+
+## Windows
+```bash
+pyinstaller --onefile --windowed --name cw_generator.exe cw_gui.py
+```
+
+## macOS
+```bash
+pyinstaller --onefile --windowed --name cw_generator cw_gui.py
+```
+

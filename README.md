@@ -82,6 +82,7 @@ Install the dependency:
 
 ```bash
 pip install requests
+```
 
 ## Windows
 ```bash

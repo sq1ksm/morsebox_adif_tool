@@ -6,8 +6,8 @@ Aplikacja może pobierać pliki logów bezpośrednio z serwera (np. ESP32) lub w
 
 ## Urządzenie
 
-MorseBOX wersja conajmniej **8.6**
-MorseLAB wersja conajmniej **2.6**
+* MorseBOX oprogramowanie w wersjii **8.6** lub nowsze
+* MorseLAB oprogramowanie w wersjii **2.6** lub nowsze
 
 ## Funkcje
 
@@ -57,8 +57,8 @@ The application can download log files directly from a server (e.g., ESP32) or l
 
 ## Device Requirements
 
-MorseBOX version **8.6** or newer  
-MorseLAB version **2.6** or newer
+* MorseBOX version **8.6** or newer
+* MorseLAB version **2.6** or newer
 
 ## Features
 

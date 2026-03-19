@@ -46,7 +46,7 @@ pyinstaller --onefile --windowed --name MorseBOX_ADIF_Tool.py
 ```bash
 pyinstaller --onefile --windowed --name MorseBOX_ADIF_Tool.py
 ```
-![MorseBOX ADIF Tool screenshot](https://raw.githubusercontent.com/sq1ksm/morsebox_adif_tool/refs/heads/main/screen.jpg)
+![MorseBOX ADIF Tool screenshot](https://raw.githubusercontent.com/sq1ksm/morsebox_adif_tool/refs/heads/main/screen.png)
 
 ---
 # MorseBOX ADIF Tool
